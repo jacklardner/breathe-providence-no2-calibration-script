@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
+
+# Generated calibration runs
+runs/
+
+# Large outputs
+outputs/
+temp_folder/
+
+# Reports
+reports/
+
+# Models
+models/
